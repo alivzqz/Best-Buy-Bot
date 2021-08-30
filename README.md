@@ -1,4 +1,4 @@
-# RTX 3070 Best Buy Bot
+# Best Buy Bot
 
 ## Features
 - Refreshes link until "Add to Cart" button is available
