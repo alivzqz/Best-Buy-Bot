@@ -1,3 +1,3 @@
-email = "enter email here"
-password = "enter password here"
-cvv = "enter cvv here"
+email = "Enter Email here"
+password = "Enter Password here"
+cvv = "Enter CVV here"
