@@ -11,7 +11,7 @@
 ## Dependencies
 - Selenium
 	- `pip install selenium`
-- [Google Chrome](https://www.google.com/chrome/)
+- [Google Chrome](https://www.google.com/chrome/) Make sure the Chrome Driver Version matches your Chrome Browser Version.
 - [ChromeDriver](https://chromedriver.chromium.org/downloads)
 	- Extract the compressed chromedriver executable to a driectory of your choice (be sure to update the path in bot.py accordingly)
 		- For the Windows machine I developed this on, I chose `C:\Users\Ali\Downloads\chromedriver.exe`
