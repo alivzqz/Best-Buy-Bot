@@ -15,7 +15,7 @@
 - [ChromeDriver](https://chromedriver.chromium.org/downloads)
 	- Extract the compressed chromedriver executable to a driectory of your choice (be sure to update the path in bot.py accordingly)
 		- For the Windows machine I developed this on, I chose `C:\Users\Ali\Downloads\chromedriver.exe`
-	- Make sure the Chrome Driver Version matches your Chrome Browser Version. 
+	- Make sure the Chrome Driver Version you download matches your Chrome Browser Version. 
 
 ## Running the Bot
 1. Make sure you have [Python 3.9](https://www.python.org/downloads/release/python-390/)
